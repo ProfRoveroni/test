@@ -1,5 +1,5 @@
 int myFunction(int x) {
- return x;
+ return x + 1;
 }
 
 int main() {
